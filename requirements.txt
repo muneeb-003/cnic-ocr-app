@@ -1,3 +1,5 @@
 streamlit
 pytesseract
-Pillow
+opencv-python
+pillow
+numpy
